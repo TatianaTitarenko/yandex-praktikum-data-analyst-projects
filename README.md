@@ -3,7 +3,7 @@
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных".
 
 
-[Диплом о профессиональной переподготовке по программе "Аналитик данных"](https://github.com/TatianaTitarenko/yandex-praktikum-data-analyst-projects/blob/main/Diplom_data_analyst.pdf)
+⚡[Диплом о профессиональной переподготовке по программе "Аналитик данных"](https://github.com/TatianaTitarenko/yandex-praktikum-data-analyst-projects/blob/main/Diplom_data_analyst.pdf)
 
 
 
