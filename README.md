@@ -1,1 +1,8 @@
-# yandex-praktikum-data-analyst-projects
+# Учебные проекты
+
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных".
+
+|№|  Наименование проекта | Описание|   Стек|
+|----|--------------------|---------|--------|
+|1|[Создание дашборда по пользовательским событиям конференции TED](https://github.com/TatianaTitarenko/yandex_practicum/tree/main/Dashboard_tableau_TED)|Подготовлен интерактивный дашборд на основе данных о конференциях TED.|tableau|
+|2|[Анализ оттока клиентов Банка](https://github.com/TatianaTitarenko/yandex_practicum/tree/main/Customer_churn_analysis)|Подготовлено исследование об оттоке клиентов Банка. Предоставлены компактные однородные сегменты клиентов наиболее вероятных к оттоку.|python, pandas, numpy, scipy, matplotlib.pyplot, seaborn, phik |
