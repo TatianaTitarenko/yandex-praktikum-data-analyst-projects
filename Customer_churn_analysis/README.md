@@ -1,5 +1,5 @@
 # Анализ оттока клиентов Банка 
-[ipynb](https://github.com/TatianaTitarenko/Projects/blob/main/Project_2/customer_churn_analysis_ttitarenko.ipynb)
+[ipynb](https://github.com/TatianaTitarenko/yandex-praktikum-data-analyst-projects/blob/main/Customer_churn_analysis/customer_churn_analysis.ipynb)
 
 ## Описание проекта
 Предоставить отделу маркетинга компактные однородные сегменты клиентов наиболее вероятных к оттоку. 
